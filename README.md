@@ -39,7 +39,7 @@ PhoneHunterX is an OSINT (Open-Source Intelligence) tool developed in Python and
 1. Run the PhoneHunterX script:
 
    ```bash
-   $  phonehunterx.sh
+   $  bash phonehunterx.sh
    ```
 
 2. Enter the phone number you wish to gather information about.
