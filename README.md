@@ -1,4 +1,5 @@
 # PhoneHunterX
+                                               Information gathering framework for phone numbers
 
 PhoneHunterX is an OSINT (Open-Source Intelligence) tool developed in Python and Bash. It enables users to gather phone number information such as local format, timezone, carrier, and validity. PhoneHunterX is designed for ethical purposes and serves as a security tool.
 
